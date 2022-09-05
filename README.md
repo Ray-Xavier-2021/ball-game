@@ -8,7 +8,8 @@ This project was built by me using HTML, CSS and JS. It will be added to my Link
 [Live GitHub Deployment](https://ray-xavier-2021.github.io/ball-game/)
 
 
-![Screenshot placeholder] (ball-game.png)
+![ball-game](https://user-images.githubusercontent.com/78431899/188518492-bd23059e-2f4c-4607-8fc1-a28d7aa31e8b.png)
+
 
 ## Technologies Used
 * HTML
