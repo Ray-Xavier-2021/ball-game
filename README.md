@@ -1,5 +1,3 @@
-# ball-game
-
 # Ball Game
 
 This project was built by me using HTML, CSS and JS. It will be added to my LinkedIn portfolio showcase as one of my projects.
